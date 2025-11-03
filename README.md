@@ -8,16 +8,12 @@ Team ID: NM2025TMID03521
 
 Team Size: 4
 
-👥 Team Members
+Team Leader :	Jesu Malar Berciya J
 
-Role	        Name
+Team Member :	Akchaya N A
 
-Team Leader	Jesu Malar Berciya J
+Team Member :	Harishma J R
 
-Team Member	Akchaya N A
-
-Team Member	Harishma J R
-
-Team Member	Rinoshiya S
+Team Member :	Rinoshiya S
 
 Servicenow Instance: https://dev306830.service-now.com/login.do?user_name=admin&sys_action=sysverb_login&user_password=iCc%5EHmU3j8%24N
